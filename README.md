@@ -5,7 +5,7 @@ NO SE SUBE EL CONTROL DE SCROLL UP QUE SE INCRUSTO EN LA ETIQUETA .IR-ARRIBA CON
 - Nombre del Grupo: GRUPO 5
 - Título del proyecto: BOUTIQUE FASHION DESIGNE
 - Temática: Emprendimiento Textil y venta de remeras y pantalones.
-- Link del TPO: (link) https://andreitar832023.github.io/TP1PROYECTOCODOACODO/pages/contacto.html
+- Link del TPO: (link) https://andreitar832023.github.io/TP1PROYECTOCODOACODO/pages/index.html
 - Link a carpeta de GitHub o similar con los archivos del TPO: (archivos) https://github.com/Andreitar832023/TP1PROYECTOCODOACODO
 - API utilizada en el TPO : https://sheetdb.io/api/v1/wpoy08wqxzl4d u  otra
 
