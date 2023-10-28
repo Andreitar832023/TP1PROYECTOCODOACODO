@@ -7,7 +7,7 @@ NO SE SUBE EL CONTROL DE SCROLL UP QUE SE INCRUSTO EN LA ETIQUETA .IR-ARRIBA CON
 - Temática: Emprendimiento Textil y venta de remeras y pantalones.
 - Link del TPO: (link) https://andreitar832023.github.io/TP1PROYECTOCODOACODO/index.html
 - Link a carpeta de GitHub o similar con los archivos del TPO: (archivos) https://github.com/Andreitar832023/TP1PROYECTOCODOACODO
-- API utilizada en el TPO : https://sheetdb.io/api/v1/wpoy08wqxzl4d u  otra
+- API utilizada en el TPO : https://sheetdb.io/api/v1/wpoy08wqxzl4d   o  https://docs.google.com/spreadsheets/d/1LYdQRyEZ88j48NnNDJjLxSgIuR5rC-1zoS1utEhdjDU/edit#gid=0
 
 -Ubicación y descripción breve de la animación
 animación de logo de wsp, animación de subrayar navbar, animación en titulos "quienes somos y galería de fotos" con animación  (arrastre hacia derecha), animación de la galería de las fotos, animación de las imágenes de catalogo (flip), animación en items de contacto (lebel), animación en botón de contacto, título "contáctenos", los títulos de h2/Remeras/catalogo Y h2/pantaloness/catalogo (simil luces de neón), animación en los títulos de cada card.
