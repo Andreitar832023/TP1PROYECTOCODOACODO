@@ -39,3 +39,6 @@ animación de logo de wsp, animación de subrayar navbar, animación en titulos 
 En comentario de entrega pondria pondria el netifly:
 
 https://boutiquefashiondesigne.netlify.app/
+
+
+El inconveniente que vemos es que el scroll de index y que figura en cada catalogo, no funciona en este server ni en Netifly, si funciona en port 8080 desde visualcode.
